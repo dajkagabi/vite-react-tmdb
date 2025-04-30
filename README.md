@@ -4,8 +4,8 @@ Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.the
 
 ## Funkciók ✨
 
-- **Főoldal : Népszerű Netflix filmek listázása.
-- **Film részletei :** Egy adott film részletes adatainak megjelenítése (pl. cím, leírás, értékelés, megjelenési dátum).
+- Főoldal : Népszerű Netflix filmek listázása.
+- Film részletei :** Egy adott film részletes adatainak megjelenítése (pl. cím, leírás, értékelés, megjelenési dátum).
 
 
 ## Használt technológiák 🛠️
