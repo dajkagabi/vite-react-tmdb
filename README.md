@@ -41,8 +41,6 @@ Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.the
    ```
    npm run dev
 
-
-
 ![Image 1](https://github.com/user-attachments/assets/721bf407-8acc-4337-aa7f-6d14ceda2889)
 
 &nbsp;
