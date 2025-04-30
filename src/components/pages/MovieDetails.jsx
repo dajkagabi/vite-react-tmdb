@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 
 const MovieDetails = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [movie, setMovie] = useState(null);
   const [loading, setLoading] = useState(true);
 
@@ -53,6 +54,13 @@ const MovieDetails = () => {
         <p className="text-sm text-gray-500">
           <strong>Rating:</strong> ⭐ {movie.vote_average} / 10
         </p>
+        {/* Back gomb */}
+        <button
+          onClick={() => navigate(-1)}
+          className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
+        >
+          Back
+        </button>
       </div>
     </div>
   );
