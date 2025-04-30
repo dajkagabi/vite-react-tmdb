@@ -1,11 +1,11 @@
 # TMDB Movie App 🎬
 
-Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.themoviedb.org/) segítségével filmeket jelenít meg. Az alkalmazásban csak a Netflix által elérhető tartalmak jelennek meg, Magyarország régióra szűrve.
+Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.themoviedb.org/) segítségével filmeket jelenít meg. 
 
 ## Funkciók ✨
 
 - Főoldal : Népszerű Netflix filmek listázása.
-- Film részletei :** Egy adott film részletes adatainak megjelenítése (pl. cím, leírás, értékelés, megjelenési dátum).
+- Film részletei : Egy adott film részletes adatainak megjelenítése (pl. cím, leírás, értékelés, megjelenési dátum).
 
 
 ## Használt technológiák 🛠️
