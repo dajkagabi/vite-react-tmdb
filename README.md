@@ -1,12 +1,28 @@
-# React + Vite
+# TMDB Movie App 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.themoviedb.org/) segítségével filmeket jelenít meg. Az alkalmazásban csak a Netflix által elérhető tartalmak jelennek meg, Magyarország régióra szűrve.
 
-Currently, two official plugins are available:
+## Funkciók ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Főoldal : Népszerű Netflix filmek listázása.
+- **Film részletei :** Egy adott film részletes adatainak megjelenítése (pl. cím, leírás, értékelés, megjelenési dátum).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Használt technológiák 🛠️
+
+- **React:** A felhasználói felület megvalósításához.
+- **React Router:** Az oldalak közötti navigációhoz.
+- **TMDB API:** A filmek adatainak lekéréséhez.
+- **Tailwind CSS:** Az alkalmazás stílusainak kialakításához.
+- **.env**: API titkosítás
+
+## Telepítés és futtatás 🚀
+
+1. **Követelmények:**
+   - Node.js (ajánlott verzió: 16.x vagy újabb)
+   - NPM vagy Yarn
+
+2. **Projekt klónozása:**
+   ```bash
+   git clone https://github.com/felhasznalonev/tmdb-movie-app.git
+   cd tmdb-movie-app
