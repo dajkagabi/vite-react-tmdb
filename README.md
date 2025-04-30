@@ -40,3 +40,16 @@ Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.the
 5. **Fejlesztői szerver indítása:**
    ```
    npm run dev
+
+
+
+![Image 1](https://github.com/user-attachments/assets/721bf407-8acc-4337-aa7f-6d14ceda2889)
+
+&nbsp;
+
+![Image 2](https://github.com/user-attachments/assets/3ebc0dc1-5df2-4083-94da-7a34370e4b9d)
+
+&nbsp;
+
+![Image 3](https://github.com/user-attachments/assets/58f7c42d-3575-46d4-89ca-0db276a93c2c)
+
