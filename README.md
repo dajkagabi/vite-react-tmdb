@@ -36,3 +36,7 @@ Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.the
    Hozz létre egy .env fájlt a projekt gyökerében, és add hozzá a következő sort
    ```
    VITE_TMDB_API_KEY=YOUR_API_KEY
+
+5. **Fejlesztői szerver indítása:**
+   ```
+   npm run dev
