@@ -24,5 +24,15 @@ Ez a projekt egy React-alapú webalkalmazás, amely a [TMDB API](https://www.the
 
 2. **Projekt klónozása:**
    ```bash
-   git clone https://github.com/felhasznalonev/tmdb-movie-app.git
+   https://github.com/dajkagabi/vite-react-tmdb.git
    cd tmdb-movie-app
+   
+3. **Függőségek:**
+   ```
+   npm install
+  
+4. **TMDB API kulcs beállítása:**
+
+   Hozz létre egy .env fájlt a projekt gyökerében, és add hozzá a következő sort
+   ```
+   VITE_TMDB_API_KEY=YOUR_API_KEY
